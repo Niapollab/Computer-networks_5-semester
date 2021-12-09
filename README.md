@@ -36,3 +36,10 @@ To view the works, you must use the application [Cisco Packet Tracer v6.0.1.0011
 Использовать динамическую маршрутизацию (протокол OSPF).
 Настроить на одном шлюзе сети службу NAT.
 ![Task 4](https://github.com/Niapollab/Computer-networks_5-semester/raw/master/.resources/4_9.png)
+
+## Task 5
+Представленную в задании сеть дополнить сетью головного офиса фирмы (5 рабочих мест, WEB и почтовый сервер, маршрутизатор) и филиала фирмы (3 рабочих места и маршрутизатор).
+Место подсоединения к сети головного офиса выделено красным прямоугольником, филиала - овалом.
+Для головного офиса использовать виртуальную сеть.
+Все остальные устройства сети должны иметь доступ друг к другу.
+![Task 5](https://github.com/Niapollab/Computer-networks_5-semester/raw/master/.resources/5_9.png)
